@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25313" started-at="2020-07-05T05:57:39Z" finished-at="2020-07-05T05:58:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25313" started-at="2020-07-05T05:57:39Z" finished-at="2020-07-05T05:58:04Z">
+      <class name="org.adactin.AdactinHotel">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="browserlaunch" is-config="true" duration-ms="7215" started-at="2020-07-05T05:57:39Z" finished-at="2020-07-05T05:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="startTime" is-config="true" duration-ms="5" started-at="2020-07-05T05:57:46Z" finished-at="2020-07-05T05:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tsc1()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="tsc1" duration-ms="6195" started-at="2020-07-05T05:57:46Z" finished-at="2020-07-05T05:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsc1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="endTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:52Z" finished-at="2020-07-05T05:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="startTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:52Z" finished-at="2020-07-05T05:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tsc2()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="tsc2" duration-ms="2899" started-at="2020-07-05T05:57:52Z" finished-at="2020-07-05T05:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsc2 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="endTime" is-config="true" duration-ms="1" started-at="2020-07-05T05:57:55Z" finished-at="2020-07-05T05:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="startTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:55Z" finished-at="2020-07-05T05:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tsc3()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="tsc3" duration-ms="1217" started-at="2020-07-05T05:57:55Z" finished-at="2020-07-05T05:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsc3 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="endTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:56Z" finished-at="2020-07-05T05:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="startTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:56Z" finished-at="2020-07-05T05:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tsc4()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="tsc4" duration-ms="1603" started-at="2020-07-05T05:57:56Z" finished-at="2020-07-05T05:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsc4 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="endTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:58Z" finished-at="2020-07-05T05:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="startTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:57:58Z" finished-at="2020-07-05T05:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tsc5()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="tsc5" duration-ms="6112" started-at="2020-07-05T05:57:58Z" finished-at="2020-07-05T05:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tsc5 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.adactin.AdactinHotel@14acaea5]" name="endTime" is-config="true" duration-ms="0" started-at="2020-07-05T05:58:04Z" finished-at="2020-07-05T05:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+      </class> <!-- org.adactin.AdactinHotel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
